@@ -1,0 +1,3 @@
+export FLASK_ENV=development
+export FLASK_APP=media
+export UPLOAD_FOLDER=uploads
